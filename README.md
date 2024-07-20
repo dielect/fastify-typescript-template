@@ -6,7 +6,6 @@ A template for integrating Fastify with TypeScript, providing a streamlined setu
 
 ## 🚀 Features
 
----
 - ⚡️ **Fastify** - High-performance web framework
 - 🔷 **TypeScript** - Type-safe development
 - 🔗 **Custom Path Aliases** - Simplified imports
@@ -27,7 +26,6 @@ A template for integrating Fastify with TypeScript, providing a streamlined setu
 <br>
 2. Install dependencies:
 
----
    ```shell
    # Using pnpm (recommended)
    pnpm install
