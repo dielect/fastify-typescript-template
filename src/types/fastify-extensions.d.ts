@@ -1,7 +1,7 @@
-import 'fastify'
+import "fastify";
 
-declare module 'fastify' {
-    interface FastifyReply {
-        sendSuccess( data:any): void;
-    }
+declare module "fastify" {
+  interface FastifyReply {
+    sendSuccess(data: any): void;
+  }
 }
